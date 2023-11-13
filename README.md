@@ -1,0 +1,2 @@
+# IDR4000_Kvantitativ_metode_og_statistikk
+Innlevering til mappeeksamen
